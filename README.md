@@ -7,7 +7,7 @@ This Gem is made to support the use of Chroma.js library with Rails Assets
 
 Add this line to your application's Gemfile:
 
-    gem 'chroma.js-rails'
+    gem 'chroma-js'
 
 And then execute:
 
@@ -15,7 +15,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install chroma.js-rails
+    $ gem install chroma-js
 
 ## Usage
 
