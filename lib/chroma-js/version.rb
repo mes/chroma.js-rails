@@ -1,4 +1,4 @@
 module Chroma
-  VERSION       = '1.0.0'
-  CHROMA_SHA = '65c0852b050b58147cff5de5157f061bdabf2bc4'
+  VERSION       = '1.1.1'
+  CHROMA_SHA = '465f409c361c93b28fc81c9e92fe8cc7839db11c'
 end
