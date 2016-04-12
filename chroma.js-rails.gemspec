@@ -23,7 +23,5 @@ Gem::Specification.new do |s|
   # Converter
   s.add_development_dependency 'term-ansicolor', '~> 0'
 
-  s.rubyforge_project         = "chroma-js"
-
   s.files      = `git ls-files`.split("\n")
 end
